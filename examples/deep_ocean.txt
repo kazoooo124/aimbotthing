@@ -1,0 +1,62 @@
+# title: The deepest place on Earth
+# palette: abyss
+# music: drone
+
+THE OCEAN IS *DEEPER*
+THAN YOU THINK
+@sfx hit
+@time 2.8
+
+The Titanic wreck rests this deep
+@counter 0 3800 m
+@sfx whoosh
+@time 3.8
+
+And that's not even *close*
+to the bottom
+@sfx whoosh
+@time 2.8
+
+The deepest point on Earth:
+*Challenger Deep*
+@sfx riser
+@time 3.0
+
+Nearly *11 kilometers* straight down
+@counter 0 10900 m
+@sfx hit
+@time 4.4
+
+Mount Everest would be buried
+under *2+ kilometers* of water
+@sfx whoosh
+@time 3.6
+
+More than *1,000 times*
+the pressure at the surface
+@sfx hit, glitch
+@time 3.6
+
+No sunlight reaches below
+about *1,000 meters*
+@sfx tick
+@time 3.2
+
+The first people reached the bottom in
+@counter 1900 1960
+@sfx whoosh
+@time 3.4
+
+Jacques Piccard and Don Walsh
+stayed about *20 minutes*
+@sfx tick
+@time 3.4
+
+And most of the ocean is
+*still unexplored*
+@sfx riser
+@time 3.2
+
+Follow for *more*
+@sfx hit
+@time 2.4
