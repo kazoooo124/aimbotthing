@@ -5,36 +5,49 @@
 THE OCEAN IS *DEEPER*
 THAN YOU THINK
 @sfx hit
+@fx flash
 @time 2.8
 
 The Titanic wreck rests this deep
 @counter 0 3800 m
 @sfx whoosh
+@fx punch
 @time 3.8
 
-And that's not even *close*
-to the bottom
-@sfx whoosh
-@time 2.8
+Here's how deep that really is
+@image ocean_depth.png
+@caption Depth below the surface
+@circle 0.62 0.43 0.08
+@sfx riser
+@time 4.4
 
 The deepest point on Earth:
 *Challenger Deep*
 @sfx riser
+@fx glitch
 @time 3.0
 
 Nearly *11 kilometers* straight down
 @counter 0 10900 m
 @sfx hit
+@fx shake
 @time 4.4
 
-Mount Everest would be buried
-under *2+ kilometers* of water
+Put Everest in the trench...
+@bars Titanic wreck:3800 | Mount Everest:8849 | Challenger Deep:10900*
+@unit m
+@sfx tick
+@time 6.5
+
+...and it would still be buried under *2+ kilometers* of water
 @sfx whoosh
-@time 3.6
+@fx punch, rgb
+@time 4.0
 
 More than *1,000 times*
 the pressure at the surface
 @sfx hit, glitch
+@fx glitch, shake
 @time 3.6
 
 No sunlight reaches below
@@ -50,13 +63,20 @@ The first people reached the bottom in
 Jacques Piccard and Don Walsh
 stayed about *20 minutes*
 @sfx tick
+@fx flicker
 @time 3.4
 
 And most of the ocean is
 *still unexplored*
 @sfx riser
+@fx glitch
 @time 3.2
 
 Follow for *more*
 @sfx hit
+@fx flash
 @time 2.4
+
+# NOTE: check every fact before you post. Want real photos instead of the diagram?
+# Replace "@image ocean_depth.png" with "@search titanic wreck" (free-to-use pictures, credits
+# are written to a file for your video description).
